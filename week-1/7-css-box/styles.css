@@ -4,3 +4,20 @@
   border-radius: 4px;
   background: #fff;
 }
+
+.countries .country {
+  padding: 20px 20px;
+  margin-bottom: 10px;
+}
+.site-wrapper {
+  padding: 15px;
+}
+
+.pages .pages__showing {
+  display: block;
+  margin-top: -15px;
+}
+
+.pages {
+  margin-top: 5px;
+}
